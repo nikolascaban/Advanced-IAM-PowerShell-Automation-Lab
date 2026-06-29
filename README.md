@@ -1,4 +1,4 @@
-# Advanced IAM PowerShell Automation Lab
+# Advanced IAM PowerShell Automation Labs
 
 ## Overview
 
