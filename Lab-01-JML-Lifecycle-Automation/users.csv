@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Username,Department,JobTitle,Status,ChangeType
+1001,Marcus,Reed,mreed,IT,Help Desk Technician,Active,Joiner
+1002,Sophia,Lopez,slopez,Finance,Payroll Specialist,Active,Joiner
+1003,Daniel,Kim,dkim,HR,HR Coordinator,Active,Mover
+1004,Amanda,Scott,ascott,Sales,Account Executive,Terminated,Leaver
+1005,Chris,Walker,cwalker,IT,System Administrator,Active,Mover

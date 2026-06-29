@@ -1,0 +1,6 @@
+Department,JobTitle,RequiredGroups
+IT,Help Desk Technician,IT-Support;VPN-Users;M365-Basic
+Finance,Payroll Specialist,Finance-Users;Payroll-System;M365-Basic
+HR,HR Coordinator,HR-Users;Employee-Records;M365-Basic
+Sales,Account Executive,Sales-Users;CRM-Access;M365-Basic
+IT,System Administrator,IT-Admins;VPN-Users;Server-Admins;M365-Basic
