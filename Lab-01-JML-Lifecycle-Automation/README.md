@@ -136,7 +136,7 @@ The Leaver process performs the following actions:
 
 ---
 
-## HR Lifecycle CSV
+## JML Actions CSV
 
 ![CSV](screenshots/02-jml-actions-csv.png)
 
