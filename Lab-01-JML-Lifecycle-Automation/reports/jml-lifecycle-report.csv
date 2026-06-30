@@ -1,0 +1,4 @@
+"DisplayName","UserPrincipalName","ActionType","ActionTaken","Status"
+"Jordan Hayes","jordanhayes@CabanTechnologies.onmicrosoft.com","Joiner","User already existed; group assignment checked","Completed with warning"
+"Carlos Rivera","carlosrivera@CabanTechnologies.onmicrosoft.com","Mover","Updated attributes and assigned target groups","Completed"
+"Amanda Lee","amandalee@CabanTechnologies.onmicrosoft.com","Leaver","Disabled user and removed group memberships","Completed"

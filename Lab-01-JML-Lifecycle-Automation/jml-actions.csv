@@ -1,0 +1,4 @@
+ActionType,DisplayName,UserPrincipalName,Department,JobTitle,TargetGroups
+Joiner,Jordan Hayes,jordanhayes@CabanTechnologies.onmicrosoft.com,IT,Help Desk Technician,"IT-Support;VPN-Users"
+Mover,Carlos Rivera,carlosrivera@CabanTechnologies.onmicrosoft.com,Security,Security Analyst,"Security-Team;VPN-Users"
+Leaver,Amanda Lee,amandalee@CabanTechnologies.onmicrosoft.com,Former Employee,Disabled,None

@@ -1,0 +1,42 @@
+2026-06-30 14:47:58 - Processing Joiner: Jordan Hayes
+2026-06-30 14:48:01 - Created user: Jordan Hayes
+2026-06-30 14:48:03 - Added Jordan Hayes to IT-Support
+2026-06-30 14:48:03 - Added Jordan Hayes to VPN-Users
+2026-06-30 15:39:50 - Starting JML lifecycle automation.
+2026-06-30 15:40:22 - Processing Joiner: Jordan Hayes
+2026-06-30 15:40:23 - User already exists: jordanhayes@CabanTechnologies.onmicrosoft.com
+2026-06-30 15:40:23 - Jordan Hayes may already be a member of IT-Support. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 15:40:24 - Jordan Hayes may already be a member of VPN-Users. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 15:40:24 - Processing Mover: Carlos Rivera
+2026-06-30 15:40:24 - Updated department/job title for Carlos Rivera
+2026-06-30 15:40:25 - Added Carlos Rivera to Security-Team
+2026-06-30 15:40:25 - Added Carlos Rivera to VPN-Users
+2026-06-30 15:40:25 - Processing Leaver: Amanda Lee
+2026-06-30 15:40:26 - Disabled account for Amanda Lee
+2026-06-30 15:40:27 - Removed Amanda Lee from group ID a573fb61-28eb-4526-b7f8-70c7191262fc
+2026-06-30 15:40:27 - JML lifecycle automation completed.
+2026-06-30 16:08:19 - Starting JML lifecycle automation.
+2026-06-30 16:08:20 - Processing Joiner: Jordan Hayes
+2026-06-30 16:08:20 - User already exists: jordanhayes@CabanTechnologies.onmicrosoft.com
+2026-06-30 16:08:21 - Jordan Hayes may already be a member of IT-Support. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:08:21 - Jordan Hayes may already be a member of VPN-Users. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:08:21 - Processing Mover: Carlos Rivera
+2026-06-30 16:08:22 - Updated department/job title for Carlos Rivera
+2026-06-30 16:08:22 - Carlos Rivera may already be a member of Security-Team. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:08:22 - Carlos Rivera may already be a member of VPN-Users. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:08:23 - Removed Carlos Rivera from old group: Operations-Users
+2026-06-30 16:08:24 - Processing Leaver: Amanda Lee
+2026-06-30 16:08:24 - Disabled account for Amanda Lee
+2026-06-30 16:08:24 - JML lifecycle automation completed.
+2026-06-30 16:16:08 - Starting JML lifecycle automation.
+2026-06-30 16:16:08 - Processing Joiner: Jordan Hayes
+2026-06-30 16:16:09 - User already exists: jordanhayes@CabanTechnologies.onmicrosoft.com
+2026-06-30 16:16:09 - Jordan Hayes may already be a member of IT-Support. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:16:10 - Jordan Hayes may already be a member of VPN-Users. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:16:10 - Processing Mover: Carlos Rivera
+2026-06-30 16:16:11 - Updated department/job title for Carlos Rivera
+2026-06-30 16:16:12 - Carlos Rivera may already be a member of Security-Team. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:16:13 - Carlos Rivera may already be a member of VPN-Users. Error: [Request_BadRequest] : One or more added object references already exist for the following modified properties: 'members'.
+2026-06-30 16:16:14 - Processing Leaver: Amanda Lee
+2026-06-30 16:16:14 - Disabled account for Amanda Lee
+2026-06-30 16:16:15 - JML lifecycle automation completed.
