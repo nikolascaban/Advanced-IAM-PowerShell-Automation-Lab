@@ -27,8 +27,6 @@ This lab performs real identity lifecycle operations against a Microsoft Entra t
 - PowerShell 7
 - Visual Studio Code
 - CSV
-- Git
-- GitHub
 
 ---
 
